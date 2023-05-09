@@ -1,8 +1,11 @@
-## Olá, mundo! Eu sou o Matheus R. Mattos, seja bem vindo ao meu perfil! ✌️
+## Olá, mundo! Eu sou o Matheus e seja bem vindo ao meu espaço! ✌️
+## Hello, wordl! I'm Matheus and welcome to my space! :)
 
 
-- 🌱 Estou atualmente estudando POO com PHP e MVC com Laravel e Django
-- Idiomas: PT/EN
+- 🌱 Estou atualmente estudando Desenvolvimento Web na estrutura MVC com Django em projeto pessoal e com Java na Faculdade.
+- 🌱 I'm currnetly studying Web Development with MVC using Django for personal projects and with Java on University.
+
+- Languages: PT/EN
 
 
 <h2>Linguagens, ferramentas e tecnologias </h2>
@@ -10,9 +13,10 @@
     <img align="center" alt="MT-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img align="center" alt="MT-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="MT-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    <img align="center" alt="MT-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <img align="center" alt="MT-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="MT-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+    <img align="center" alt="MT-Django" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+          
    </div>
   
 
