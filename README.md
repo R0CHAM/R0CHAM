@@ -1,8 +1,8 @@
 ## Olá, mundo! Eu sou o Matheus R. Mattos, seja bem vindo ao meu perfil! ✌️
 
 
-- 🌱 Estou atualmente estudando POO com PHP e MVC com Laravel
-- Idiomas: 🇧🇷/🇺🇸
+- 🌱 Estou atualmente estudando POO com PHP e MVC com Laravel e Django
+- Idiomas: PT/EN
 
 
 <h2>Linguagens, ferramentas e tecnologias </h2>
